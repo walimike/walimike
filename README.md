@@ -1,16 +1,15 @@
 ### Hi there 👋
+## My name is Michael Robert Wali 
+#### Fullstack Developer
+ 📫 How to reach me:
+- Email: walimike139@gmail.com
+- Twitter: [WaliMikie](https://twitter.com/WaliMikie)
+<br>💬 Ask me about code and we'll talk
+#### Here are some of the things I'm up to
 
-<!--
-**walimike/walimike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 2 awesome projects:
+ 1. [Rgistry app](https://registry.co.ug/) which is the registrant for .ug domain names built in Ruby on Rails
+ 2. [BPOSeats](https://bposeats.com/) a business production tool built in Django/Vue
+- 🌱 I’m currently levelling up in Java/spring boot
+- ⚡ Fun fact: I like to eat what I cooked
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
