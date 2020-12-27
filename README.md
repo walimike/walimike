@@ -3,7 +3,9 @@
 #### Fullstack Developer<br>
 📫 How to reach me:
 - Email: walimike139@gmail.com
-- Twitter: [WaliMikie](https://twitter.com/WaliMikie)<br>
+- Twitter: [WaliMikie](https://twitter.com/WaliMikie)
+<br>
+
 💬 Technologies:
 - Django/Flask
 - Vue/React
