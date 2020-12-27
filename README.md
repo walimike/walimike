@@ -6,12 +6,14 @@
 - Twitter: [WaliMikie](https://twitter.com/WaliMikie)
 <br>
 💬 Technologies:
+```
     - Django/Flask
     - Vue/React
     - Ruby on Rails
     - Postgres/MySQL
+```
 <br>
-🔭 I’m currently working on 2 awesome projects:
+🔭 I’m currently working on 2 awesome projects:<br>
     - [Rgistry app](https://registry.co.ug/) which is the registrant for .ug domain names built in Ruby on Rails
     - [BPOSeats](https://bposeats.com/) a business production tool built in Django/Vue
 <br>
