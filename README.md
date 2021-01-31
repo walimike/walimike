@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## My name is Michael Robert Wali 
 #### Fullstack Developer<br>
-📫 How to reach me:
+📫 About me:
+- Gitlab: https://gitlab.com/walimike
 - Email: walimike139@gmail.com
 - Twitter: [WaliMikie](https://twitter.com/WaliMikie)
 
