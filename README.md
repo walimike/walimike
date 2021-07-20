@@ -9,7 +9,8 @@
 
 💬 Technologies:
 - Django/Flask
-- Vue/React
+- NextJS & React
+- NuxtJS % Vue
 - Ruby on Rails
 - Postgres/MySQL
 
